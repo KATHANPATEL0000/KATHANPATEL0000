@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KATHANPATEL0000
-- 👀 I’m interested in UX Designer and web development
-- 🌱 I’m currently learning UX design course
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in  Web development
+- 🌱 I’m currently learning Angular & Angular material
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me kathan27122000@gmail.com
 
 <!---
